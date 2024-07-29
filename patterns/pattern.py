@@ -1,3 +1,5 @@
+"""Simple Programing Langauge"""
+
 print('Normal Pyramid')
 print('Enter the number of rows')
 n = int(input())
